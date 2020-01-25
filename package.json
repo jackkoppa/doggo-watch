@@ -1,0 +1,19 @@
+{
+  "name": "doggo-watch",
+  "version": "0.0.1",
+  "description": "Experimental Hangouts -> screenshots -> Vision AI -> Slack for pet watching",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackkoppa/doggo-watch.git"
+  },
+  "author": "Jack Koppa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackkoppa/doggo-watch/issues"
+  },
+  "homepage": "https://github.com/jackkoppa/doggo-watch#readme"
+}
