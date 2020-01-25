@@ -4,7 +4,8 @@
   "description": "Experimental Hangouts -> screenshots -> Vision AI -> Slack for pet watching",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node ./index.js",
+    "test": "echo 'write some tests!'"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jackkoppa/doggo-watch/issues"
   },
-  "homepage": "https://github.com/jackkoppa/doggo-watch#readme"
+  "homepage": "https://github.com/jackkoppa/doggo-watch#readme",
+  "dependencies": {
+    "playwright": "^0.9.21"
+  }
 }
